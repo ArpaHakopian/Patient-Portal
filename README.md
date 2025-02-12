@@ -1,4 +1,4 @@
-# Medical-App
+# Patient-Portal
 Patient Portal desktop application
 A Java and JavaFX desktop application that provides personalized provider search configurations and facilitates doctor-patient 
 connections through appointment scheduling and reminders.
